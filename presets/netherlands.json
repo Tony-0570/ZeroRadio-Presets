@@ -31,6 +31,6 @@
   {"name":"Omrop Fryslân","streamUrl":"https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_friesland.svg"},
   {"name":"NH Radio","streamUrl":"https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NH_Nieuws_logo_2022.svg/250px-NH_Nieuws_logo_2022.svg.png"},
   {"name":"Omroep West","streamUrl":"http://icecast.stream.bbvms.com/omroepwest_radio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_west.png"},
-  {"name":"RTV Rijnmond","streamUrl":"http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rijnmond.png"},
+  {"name":"RTV Rijnmond","streamUrl":"http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rijnmond.png"}
     
 ]
