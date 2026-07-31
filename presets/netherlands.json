@@ -1,0 +1,4 @@
+[
+  { "name": "NPO Radio 1", "streamUrl": "https://icecast.omroep.nl/radio1-bb-mp3", "logoUrl": "https://www.nporadio1.nl/apple-touch-icon.png" },
+  { "name": "Sky Radio", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3", "logoUrl": "https://www.skyradio.nl/favicon.ico" }
+]
