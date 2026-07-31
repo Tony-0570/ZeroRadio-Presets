@@ -1,6 +1,9 @@
 [
-  {"name":"1","streamUrl":"","logoUrl":""},
-  {"name":"2","streamUrl":"","logoUrl":""},
-  {"name":"3","streamUrl":"","logoUrl":""},
-  {"name":"4","streamUrl":"","logoUrl":""}
+  {"name":"Chérie FM","streamUrl":"https://cdnradio.streamakaci.com/cheriefm1.mp3","logoUrl":"https://media.info/l/o/6/6812.1503485369.png"},
+  {"name":"France Info","streamUrl":"http://direct.franceinfo.fr/live/franceinfo-midfi.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/960px-Franceinfo.svg.png"},
+  {"name":"France Inter","streamUrl":"http://direct.franceinter.fr/live/franceinter-midfi.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/500px-France_Inter_logo_2021.svg.png"},
+  {"name":"FIP","streamUrl":"http://direct.fipradio.fr/live/fip-midfi.mp3","logoUrl":""},
+  {"name":"France Musique","streamUrl":"https://direct.francemusique.fr/live/francemusique-midfi.mp3","logoUrl":""},
+  {"name":"NRJ","streamUrl":"https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3","logoUrl":""},
+  {"name":"RTL France","streamUrl":"https://icecast.rtl.fr/rtl-1-44-128","logoUrl":""}
 ]
