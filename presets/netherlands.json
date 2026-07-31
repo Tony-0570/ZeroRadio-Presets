@@ -21,7 +21,7 @@
   {"name":"Gigant FM","streamUrl":"https://stream.gigantfm.nl/gigantfm","logoUrl":"https://www.gigantfm.nl/assets/images/logo.png"},
   {"name":"Radio Oost","streamUrl":"https://streams.rtvoost.nl/audio/oost/mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_oost.svg"},
   {"name":"Radio Gelderland","streamUrl":"https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_gelderland.svg"},
-  {"name":"L1 Radio","streamUrl":"https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3":"","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_l1.svg"},
+  {"name":"L1 Radio","streamUrl":"https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_l1.svg"},
   {"name":"Omroep Brabant","streamUrl":"http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3","logoUrl":"https://omroepbrabant.nl/favicon.ico"},
   {"name":"Omroep Zeeland","streamUrl":"https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_zeeland.png"},
   {"name":"RTV Utrecht","streamUrl":"https://media.rtvutrecht.nl/radiomutrecht-bb-mp3","logoUrl":"https://rtvutrecht.nl/favicon.ico"},
