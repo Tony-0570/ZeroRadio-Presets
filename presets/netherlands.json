@@ -26,7 +26,7 @@
   {"name":"Omroep Zeeland","streamUrl":"https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_zeeland.png"},
   {"name":"RTV Utrecht","streamUrl":"https://media.rtvutrecht.nl/radiomutrecht-bb-mp3","logoUrl":"https://rtvutrecht.nl/favicon.ico"},
   {"name":"Omroep Flevoland","streamUrl":"https://stream.omroepflevoland.nl/icecast/omroepflevoland/stream2","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_utrecht.png"},
-  {"name":"RTV Drenthe","streamUrl":"	https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rtvdrenthe.svg},
+  {"name":"RTV Drenthe","streamUrl":"	https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rtvdrenthe.svg"},
   {"name":"RTV Noord","streamUrl":"https://media.rtvnoord.nl/icecast/rtvnoord/radio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rtvnoord.png"},
   {"name":"Omrop Fryslân","streamUrl":"https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_friesland.svg"},
   {"name":"NH Radio","streamUrl":"https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NH_Nieuws_logo_2022.svg/250px-NH_Nieuws_logo_2022.svg.png"},
