@@ -3,7 +3,7 @@
   {"name":"NPO 2","streamUrl":"https://icecast.omroep.nl/radio2-bb-mp3","logoUrl":"https://www.nporadio2.nl/apple-touch-icon.png"},
   {"name":"NPO 3FM","streamUrl":"https://icecast.omroep.nl/3fm-bb-mp3","logoUrl":"https://www.npo3fm.nl/apple-touch-icon.png"},
   {"name":"NPO Klassiek","streamUrl":"https://icecast.omroep.nl/radio4-bb-mp3","logoUrl":"https://www.npoklassiek.nl/svg/npo-klassiek-logo.svg"},
-  {"name":"NPO Radio 5","streamUrl":"https://icecast.omroep.nl/radio5-bb-mp3","logoUrl":"https://www.nporadio5.nl/apple-touch-icon.png",
+  {"name":"NPO Radio 5","streamUrl":"https://icecast.omroep.nl/radio5-bb-mp3","logoUrl":"https://www.nporadio5.nl/apple-touch-icon.png"},
   {"name":"Radio 538","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3","logoUrl":"https://www.538.nl/favicon.ico"},
   {"name":"SkyRadio","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3","logoUrl":"https://www.skyradio.nl/favicon.ico"},
   {"name":"QMusic","streamUrl":"https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3","logoUrl":"https://qmusic.nl/favicon.ico"},
@@ -32,5 +32,4 @@
   {"name":"NH Radio","streamUrl":"https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NH_Nieuws_logo_2022.svg/250px-NH_Nieuws_logo_2022.svg.png"},
   {"name":"Omroep West","streamUrl":"http://icecast.stream.bbvms.com/omroepwest_radio","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_west.png"},
   {"name":"RTV Rijnmond","streamUrl":"http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3","logoUrl":"https://s.regiogroei.cloud/img/brand-logos/resized/logo_rijnmond.png"}
-    
 ]
