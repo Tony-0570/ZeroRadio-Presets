@@ -4,6 +4,6 @@
   { "id": "de", "name": "Germany", "file": "germany.json" },
   { "id": "it", "name": "Italy", "file": "italy.json" },
   { "id": "nl", "name": "Nederland", "file": "netherlands.json" },
-  { "id": "es", "name": "Spain", "file": "spain.json" }
+  { "id": "es", "name": "Spain", "file": "spain.json" },
   { "id": "us", "name": "USA", "file": "usa.json" }
 ]
