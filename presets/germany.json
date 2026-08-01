@@ -4,7 +4,7 @@
   {"name":"Bayern 1","streamUrl":"https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid","logoUrl":"https://www.br.de/favicon.ico"},
   {"name":"HIT RADIO FFH","streamUrl":"https://mp3.ffh.de/radioffh/hqlivestream.mp3","logoUrl":"https://www.ffh.de/favicon.ico"},
   {"name":"Klassik Radio","streamUrl":"https://klassikr.streamabc.net/klr-krdnational-mp3-192-8877033","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Klassik_Radio_Logo_2020.svg/960px-Klassik_Radio_Logo_2020.svg.png"},
-  {"name":"NDR 2","streamUrl":"https://ndr.de","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NDR_2_Logo.svg/960px-NDR_2_Logo.svg.png"},
+  {"name":"NDR 2","streamUrl":"https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NDR_2_Logo.svg/960px-NDR_2_Logo.svg.png"},
   {"name":"RADIO BOB!","streamUrl":"https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Radio_Bob_Logo_2025.svg/960px-Radio_Bob_Logo_2025.svg.png"},
   {"name":"Sunshine Live","streamUrl":"http://stream.sunshine-live.de/live/mp3-192","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/250px-Sunshine_live_Logo_2022.svg.png"},
   {"name":"SWR3","streamUrl":"https://liveradio.swr.de/sw282p3/swr3/play.mp3","logoUrl":"https://www.swr3.de/favicon.ico"},
