@@ -7,6 +7,6 @@
   {"name":"Fun Radio","streamUrl":"http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3","logoUrl":""},
   {"name":"Nostalgie+","streamUrl":"https://stream.rcs.revma.com/s9mkgtsqtg0uv","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nostalgie_Plus_Logo.png/330px-Nostalgie_Plus_Logo.png"},
   {"name":"VivaCité","streamUrl":"https://radio.rtbf.be/viva-bxl/mp3-160/me","logoUrl":"https://static2.mytuner.mobi/media/tvos_radios/930/rtbf-vivacite-liege.0e9279d5.png"},
-  {"name":"Tipik","streamUrl":"https://radio.rtbf.be/tipik/mp3-160/me","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/120px-Tipik_2025.svg.png?_=20251216074224"},
-  {"name":"RTBF La Première","streamUrl":"https://radio.rtbf.be/lapremiere/mp3-160/me","logoUrl":"https://nl.radio.net/300/rtbflapremiere.png?version=2ca34b9e457b31e477122046942a87ab3782d39e"}
+  {"name":"Tipik","streamUrl":"https://radio.rtbf.be/tipik/mp3-160/me","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/120px-Tipik_2025.svg.png"},
+  {"name":"RTBF La Première","streamUrl":"https://radio.rtbf.be/lapremiere/mp3-160/me","logoUrl":"https://nl.radio.net/300/rtbflapremiere.png"}
 ]
