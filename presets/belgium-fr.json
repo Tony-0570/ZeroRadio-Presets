@@ -1,7 +1,7 @@
 [
   {"name":"Classic 21","streamUrl":"https://radio.rtbf.be/c21-live/mp3-128/me","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/RTBF_Classic_21_logo.svg/250px-RTBF_Classic_21_logo.svg.png"},
   {"name":"Nostalgie","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":"https://69jq4ngjpe36.b-cdn.net/5fhgv912sac7/w_360,h_360/nostalgie-450x450.png"},
-  {"name":"Radio Contact","streamUrl":"","logoUrl":""},
+  {"name":"Radio Contact","streamUrl":"","logoUrl":"https://play-lh.googleusercontent.com/zP1MOrSB_8ZJ91lMVqwyLmsqdErZXjGmjn23sc09pBlfuc5XeO1y0ChwX-CQ3DNEfg1b2s8AGi1rTNW9XFSH7w=w240-h480-rw"},
   {"name":"Bel RTL","streamUrl":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/8/81/Bel_RTL_logo.png"},
   {"name":"NRJ Belgique","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3","logoUrl":"https://nl.nrj.be/images/logo_footer.png"},
   {"name":"Fun Radio","streamUrl":"http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/960px-Logo_Fun_Radio_%282021%29.svg.png"},
