@@ -2,7 +2,7 @@
   {"name":"VRT Klara","streamUrl":"https://icecast.vrtcdn.be/klara-high.mp3","logoUrl":""},
   {"name":"VRT Radio 1","streamUrl":"http://icecast.vrtcdn.be/radio1-high.mp3","logoUrl":""},
   {"name":"VRT Radio 2","streamUrl":"http://icecast.vrtcdn.be/ra2ant-high.mp3","logoUrl":""},
-  {"name":"QMusic","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3","logoUrl":""},
+  {"name":"QMusic BE","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3","logoUrl":""},
   {"name":"Joe","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3","logoUrl":""},
   {"name":"Studio Brussel","streamUrl":"http://icecast.vrtcdn.be/stubru-high.mp3","logoUrl":""},
   {"name":"Nostalgie","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":""},
@@ -11,16 +11,15 @@
   {"name":"TOPradio","streamUrl":"https://str.topradio.be/topradio.mp3","logoUrl":""},
   {"name":"Bel RTL","streamUrl":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3","logoUrl":""},
   
-  {"name":"Classic 21","streamUrl":"","logoUrl":""},
+  {"name":"Classic 21","streamUrl":"https://radio.rtbf.be/c21-live/mp3-128/me","logoUrl":""},
   {"name":"Nostalgie (FR)","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":""},
   {"name":"Radio Contact","streamUrl":"","logoUrl":""},
-  {"name":"Bel RTL","streamUrl":"","logoUrl":""},
-  {"name":"NRJ Belgique","streamUrl":"","logoUrl":""},
-  {"name":"Fun Radio","streamUrl":"","logoUrl":""},
+  {"name":"Bel RTL","streamUrl":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3","logoUrl":""},
+  {"name":"NRJ Belgique","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3","logoUrl":""},
+  {"name":"Fun Radio","streamUrl":"http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3","logoUrl":""},
   {"name":"Nostalgie+","streamUrl":"https://stream.rcs.revma.com/s9mkgtsqtg0uv","logoUrl":""},
-  {"name":"VivaCité","streamUrl":"","logoUrl":""},
-  {"name":"Tipik","streamUrl":"","logoUrl":""},
-  {"name":"Radio Contact","streamUrl":"","logoUrl":""},
-  {"name":"RTBF La Première","streamUrl":"","logoUrl":""}
+  {"name":"VivaCité","streamUrl":"https://radio.rtbf.be/viva-bxl/mp3-160/me","logoUrl":""},
+  {"name":"Tipik","streamUrl":"https://radio.rtbf.be/tipik/mp3-160/me","logoUrl":""},
+  {"name":"RTBF La Première","streamUrl":"https://radio.rtbf.be/lapremiere/mp3-160/me","logoUrl":""}
   
 ]
