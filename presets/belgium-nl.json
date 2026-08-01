@@ -2,12 +2,12 @@
   {"name":"VRT Klara","streamUrl":"https://icecast.vrtcdn.be/klara-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-08.svg"},
   {"name":"VRT Radio 1","streamUrl":"http://icecast.vrtcdn.be/radio1-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2025-06/radio1.svg"},
   {"name":"VRT Radio 2","streamUrl":"http://icecast.vrtcdn.be/ra2ant-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2025-06/color.svg"},
-  {"name":"QMusic BE","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3","logoUrl":""},
+  {"name":"QMusic BE","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3","logoUrl":"https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico"},
   {"name":"Joe","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3","logoUrl":""},
-  {"name":"Studio Brussel","streamUrl":"http://icecast.vrtcdn.be/stubru-high.mp3","logoUrl":""},
-  {"name":"Nostalgie","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":""},
+  {"name":"Studio Brussel","streamUrl":"http://icecast.vrtcdn.be/stubru-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-06.svg"},
+  {"name":"Nostalgie","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":"https://69jq4ngjpe36.b-cdn.net/5fhgv912sac7/w_360,h_360/nostalgie-450x450.png"},
   {"name":"MNM","streamUrl":"https://icecast.vrtcdn.be/mnm-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-05.svg"},
-  {"name":"Willy","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/willy_be/mp3","logoUrl":""},
-  {"name":"TOPradio","streamUrl":"https://str.topradio.be/topradio.mp3","logoUrl":""},
+  {"name":"Willy","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/willy_be/mp3","logoUrl":"https://cdn-radio.dpgmedia.net/2/83/80/23/51/WILLY_264x264__zwart_.png"},
+  {"name":"TOPradio","streamUrl":"https://str.topradio.be/topradio.mp3","logoUrl":"https://topradio.be/_next/image?url=https%3A%2F%2Fapi.topradio.be%2Fimages%2F34292.d95ddae.1-1.180.90.webp&w=96&q=75"},
   {"name":"Bel RTL","streamUrl":"https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3","logoUrl":""}
 ]
