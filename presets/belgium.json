@@ -1,6 +1,12 @@
 [
-  {"name":"1","streamUrl":"","logoUrl":""},
-  {"name":"2","streamUrl":"","logoUrl":""},
-  {"name":"3","streamUrl":"","logoUrl":""},
-  {"name":"4","streamUrl":"","logoUrl":""}
+  {"name":"VRT Radio 2","streamUrl":"","logoUrl":""},
+  {"name":"QMusic","streamUrl":"","logoUrl":""},
+  {"name":"Joe","streamUrl":"","logoUrl":""},
+  {"name":"Studio Brussel","streamUrl":"","logoUrl":""},
+  {"name":"Nostalgie","streamUrl":"","logoUrl":""},
+  {"name":"MNM","streamUrl":"","logoUrl":""},
+  {"name":"Classic 21","streamUrl":"","logoUrl":""},
+  {"name":"Bel RTL","streamUrl":"","logoUrl":""},
+  {"name":"Radio Contact","streamUrl":"","logoUrl":""},
+  {"name":"RTBF La Première","streamUrl":"","logoUrl":""}
 ]
