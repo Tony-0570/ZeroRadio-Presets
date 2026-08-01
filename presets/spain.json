@@ -1,9 +1,9 @@
 [
   {"name":"Cadena 100","streamUrl":"http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3","logoUrl":"https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png"},
   {"name":"Cadena Dial","streamUrl":"http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3","logoUrl":"https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png"},
-  {"name":"Europa FM","streamUrl":"https://stream.zeno.fm/se76qau1hc9uv","logoUrl":""},
+  {"name":"Europa FM","streamUrl":"https://stream.zeno.fm/se76qau1hc9uv","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Europa_FM_2022_logo.svg/960px-Europa_FM_2022_logo.svg.png"},
   {"name":"Hit FM","streamUrl":"","logoUrl":"https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-192x192.png"},
-  {"name":"Kiss FM","streamUrl":"https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3","logoUrl":""},
+  {"name":"Kiss FM","streamUrl":"https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3","logoUrl":"https://www.kissfm.es/wp-content/uploads/2024/10/Logo-KISS-FM_Negativo-Color.png"},
   {"name":"LOS40","streamUrl":"https://20103.live.streamtheworld.com/LOS40_SC","logoUrl":"https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png"},
   {"name":"LOS40 Classic","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/1280px-LOS40_Classic.svg.png"},
   {"name":"Radio 3 - RNE","streamUrl":"https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8","logoUrl":"https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.rtve.es/play/radio/radio-3/&size=16"},
