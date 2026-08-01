@@ -1,6 +1,12 @@
 [
-  {"name":"1","streamUrl":"","logoUrl":""},
-  {"name":"2","streamUrl":"","logoUrl":""},
-  {"name":"3","streamUrl":"","logoUrl":""},
-  {"name":"4","streamUrl":"","logoUrl":""}
+  {"name":"LOS40","streamUrl":"https://20103.live.streamtheworld.com/LOS40_SC","logoUrl":""},
+  {"name":"Cadena 100","streamUrl":"http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3","logoUrl":"https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png"},
+  {"name":"Cadena Dial","streamUrl":"http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3","logoUrl":"https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png"},
+  {"name":"Rock FM","streamUrl":"http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u","logoUrl":"https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png"},
+  {"name":"Kiss FM","streamUrl":"https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3","logoUrl":""},
+  {"name":"Europa FM","streamUrl":"https://stream.zeno.fm/se76qau1hc9uv","logoUrl":""},
+  {"name":"LOS40 Classic","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3","logoUrl":"https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png"},
+  {"name":"Radiolé","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png"},
+  {"name":"Hit FM","streamUrl":"","logoUrl":""},
+  {"name":"Radio 3 - RNE","streamUrl":"","logoUrl":""}
 ]
