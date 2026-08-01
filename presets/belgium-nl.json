@@ -3,7 +3,7 @@
   {"name":"VRT Radio 1","streamUrl":"http://icecast.vrtcdn.be/radio1-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2025-06/radio1.svg"},
   {"name":"VRT Radio 2","streamUrl":"http://icecast.vrtcdn.be/ra2ant-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2025-06/color.svg"},
   {"name":"QMusic BE","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3","logoUrl":"https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico"},
-  {"name":"Joe","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3","logoUrl":""},
+  {"name":"Joe","streamUrl":"https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3","logoUrl":"https://www.slam.nl/favicon.ico"},
   {"name":"Studio Brussel","streamUrl":"http://icecast.vrtcdn.be/stubru-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-06.svg"},
   {"name":"Nostalgie","streamUrl":"https://stream.rcs.revma.com/5gd04cwptg0uv","logoUrl":"https://69jq4ngjpe36.b-cdn.net/5fhgv912sac7/w_360,h_360/nostalgie-450x450.png"},
   {"name":"MNM","streamUrl":"https://icecast.vrtcdn.be/mnm-high.mp3","logoUrl":"https://www.vrt.be/nl/assets/images/2024-10/vrtweb-logos-05.svg"},
