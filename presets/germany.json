@@ -1,6 +1,12 @@
 [
-  {"name":"1","streamUrl":"","logoUrl":""},
+  {"name":"1Live (WDR)","streamUrl":"https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3","logoUrl":"https://www1.wdr.de/radio/1live/favicon.ico"},
+  {"name":"Antenne Bayern","streamUrl":"https://stream.antenne.de/antenne/stream/mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antenne_Bayern_logo.svg/960px-Antenne_Bayern_logo.svg.png?_=20210901024529"},
   {"name":"2","streamUrl":"","logoUrl":""},
-  {"name":"3","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
+  {"name":"2","streamUrl":"","logoUrl":""},
   {"name":"4","streamUrl":"","logoUrl":""}
 ]
