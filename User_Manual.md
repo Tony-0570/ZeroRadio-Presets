@@ -15,7 +15,7 @@ There are three ways to populate your radio list:
 ### Organizing Your List
 *   **Favorites:** Tap the ❤️ icon on the player bar to favorite a station. You can filter your main view to show *only* favorites using the heart icon in the top bar.
 *   **Reordering:** Go to `Settings` -> `Reorder Stations`. Long-press the `⠿` handle and drag stations to your preferred order.
-*   **Editing/Deleting:** **Long-press** any station tile on the main screen to open the Edit menu. Here you can change the name, URL, or logo.
+*   **Editing/Deleting:** **Long-press** any station tile on the main screen to open the Edit menu. Here you can change the name, URL, or logo. You can also upload your own logo if you cannot find a good URL.
 
 ---
 
