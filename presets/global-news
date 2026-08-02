@@ -1,6 +1,5 @@
 [
-  {"name":"Coming Soon","streamUrl":"","logoUrl":""},
-  {"name":"2","streamUrl":"","logoUrl":""},
-  {"name":"3","streamUrl":"","logoUrl":""},
-  {"name":"4","streamUrl":"","logoUrl":""}
+  {"name":"CNN","streamUrl":"https://tunein.cdnstream1.com/2868_96.mp3","logoUrl":"https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png"},
+  {"name":"BBC World Service","streamUrl":"http://stream.live.vc.bbcmedia.co.uk/bbc_world_service","logoUrl":"http://cdn-profiles.tunein.com/s24948/images/logoq.jpg"},
+  {"name":"Al Jazeera","streamUrl":"http://aj.lsops.net/live/aljazeer_en_high.sdp/playlist.m3u8","logoUrl":"https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo-500x281.png"}
 ]
