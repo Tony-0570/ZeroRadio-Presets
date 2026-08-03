@@ -16,8 +16,7 @@
 
   {"name":"Pinguin Blues","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2406394_SC.mp3","logoUrl":"https://pinguinradio.com/assets/icons/icon-72x72.png"},
   {"name":"Pinguin Classics","streamUrl":"https://streams.pinguinradio.com/PinguinClassics192.mp3","logoUrl":"https://pinguinradio.com/assets/icons/icon-72x72.png"},
-
-  {"name":"Blues Radio NL","streamUrl":"http://stream.bluesradionl.nl:8000/stream","logoUrl":""},
+  {"name":"Arrow Bluesbox","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3","logoUrl":""},
   {"name":"BNR Nieuwsradio","streamUrl":"https://stream.bnr.nl/bnr_mp3_128_20","logoUrl":""},
   
   {"name":"HOEX RADIO","streamUrl":"https://caster04.streampakket.com/proxy/9336/stream","logoUrl":"https://hoexradio.nl/wp-content/uploads/2023/03/HoexRadio_2.png"},
