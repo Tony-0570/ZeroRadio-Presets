@@ -2,6 +2,7 @@
   { "id": "gln", "name": "! World News", "file": "global-news.json" },
   { "id": "ben", "name": "Belgium-FR", "file": "belgium-fr.json" },
   { "id": "bef", "name": "Belgium-NL", "file": "belgium-nl.json" },
+  { "id": "cw", "name": "Curaçao", "file": "curacao-nl.json" },
   { "id": "fr", "name": "France", "file": "france.json" },
   { "id": "de", "name": "Germany", "file": "germany.json" },
   { "id": "nl", "name": "Nederland", "file": "netherlands.json" },
