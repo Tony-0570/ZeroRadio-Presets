@@ -1,11 +1,13 @@
 [
   {"name":"1Live (WDR)","streamUrl":"https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3","logoUrl":"https://www1.wdr.de/radio/1live/favicon.ico"},
+  {"name":"80s80s Radio","streamUrl":"http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=69687n9o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768454811","logoUrl":"https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png"},
   {"name":"Antenne Bayern","streamUrl":"https://stream.antenne.de/antenne/stream/mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antenne_Bayern_logo.svg/960px-Antenne_Bayern_logo.svg.png?_=20210901024529"},
   {"name":"Bayern 1","streamUrl":"https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid","logoUrl":"https://www.br.de/favicon.ico"},
   {"name":"HIT RADIO FFH","streamUrl":"https://mp3.ffh.de/radioffh/hqlivestream.mp3","logoUrl":"https://www.ffh.de/favicon.ico"},
   {"name":"Klassik Radio","streamUrl":"https://klassikr.streamabc.net/klr-krdnational-mp3-192-8877033","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Klassik_Radio_Logo_2020.svg/960px-Klassik_Radio_Logo_2020.svg.png"},
   {"name":"NDR 2","streamUrl":"https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NDR_2_Logo.svg/960px-NDR_2_Logo.svg.png"},
   {"name":"RADIO BOB!","streamUrl":"https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Radio_Bob_Logo_2025.svg/960px-Radio_Bob_Logo_2025.svg.png"},
+  {"name":"Rock Antenne","streamUrl":"http://mp3channels.webradio.rockantenne.de/rockantenne","logoUrl":"http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.ng"},
   {"name":"Sunshine Live","streamUrl":"http://stream.sunshine-live.de/live/mp3-192","logoUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/250px-Sunshine_live_Logo_2022.svg.png"},
   {"name":"SWR3","streamUrl":"https://liveradio.swr.de/sw282p3/swr3/play.mp3","logoUrl":"https://www.swr3.de/favicon.ico"},
   {"name":"WDR 2","streamUrl":"https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3","logoUrl":"https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr2_logo_claim.svg"}
