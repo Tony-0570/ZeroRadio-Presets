@@ -1,4 +1,5 @@
 [
+  {"name":"BNR Nieuwsradio","streamUrl":"https://stream.bnr.nl/bnr_mp3_128_20","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/831/bnr-nieuws-radio.19b23b25.jpg"},
   {"name":"NPO 1","streamUrl":"https://icecast.omroep.nl/radio1-bb-mp3","logoUrl":"https://www.nporadio1.nl/apple-touch-icon.png"},
   {"name":"NPO 2","streamUrl":"https://icecast.omroep.nl/radio2-bb-mp3","logoUrl":"https://www.nporadio2.nl/apple-touch-icon.png"},
   {"name":"NPO 3FM","streamUrl":"https://icecast.omroep.nl/3fm-bb-mp3","logoUrl":"https://www.npo3fm.nl/apple-touch-icon.png"},
@@ -10,16 +11,12 @@
   {"name":"SLAM!","streamUrl":"https://stream.slam.nl/slam_mp3","logoUrl":"https://www.slam.nl/favicon.ico"},
   {"name":"Joe","streamUrl":"https://stream.joe.nl/joe/mp3","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg"},
   {"name":"KINK","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3","logoUrl":"https://kink.nl/favicon.ico"},
-  {"name":"Dolfijn FM","streamUrl":"http://radiostreamfm.com:8120/radio.mp3","logoUrl":"https://dolfijngo.com/wp-content/uploads/2022/06/cropped-fm-logo-1-180x180.png"},
   {"name":"Pinguin Aardschok","streamUrl":"https://streams.pinguinradio.com/Aardschok192.mp3","logoUrl":"https://pinguinradio.com/assets/icons/icon-72x72.png"},
+  {"name":"Pinguin Blues","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2406394_SC.mp3","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/saszjd27tehu.jpg"},
+  {"name":"Pinguin Classics","streamUrl":"https://streams.pinguinradio.com/PinguinClassics192.mp3","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/88smwQxuYT.jpg"},
   {"name":"Pinguin On the Rocks","streamUrl":"http://streams.pinguinradio.com/PinguinOnTheRocks192.mp3","logoUrl":"https://pinguinradio.com/assets/img/logo/pinguinrock.svg"},
-
-  {"name":"Pinguin Blues","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2406394_SC.mp3","logoUrl":"https://pinguinradio.com/assets/icons/icon-72x72.png"},
-  {"name":"Pinguin Classics","streamUrl":"https://streams.pinguinradio.com/PinguinClassics192.mp3","logoUrl":"https://pinguinradio.com/assets/icons/icon-72x72.png"},
-  {"name":"Arrow Bluesbox","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3","logoUrl":""},
-  {"name":"BNR Nieuwsradio","streamUrl":"https://stream.bnr.nl/bnr_mp3_128_20","logoUrl":""},
-  
   {"name":"HOEX RADIO","streamUrl":"https://caster04.streampakket.com/proxy/9336/stream","logoUrl":"https://hoexradio.nl/wp-content/uploads/2023/03/HoexRadio_2.png"},
+  {"name":"Arrow Bluesbox","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3","logoUrl":"https://static.mytuner.mobi/media/tvos_radios/wu2pxn2sf9vm.png"},
   {"name":"Arrow Classic Rock","streamUrl":"http://stream.gal.io/arrow","logoUrl":"https://www.arrow.nl/wp-content/uploads/2020/08/logo.png"},
   {"name":"100% NL","streamUrl":"http://stream.100p.nl/100pctnl.mp3","logoUrl":"https://www.mp3streams.nl/logo/z/100-nl-liefde"},
   {"name":"Radio10","streamUrl":"http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3","logoUrl":"https://www.radio10.nl/favicon.ico"},
