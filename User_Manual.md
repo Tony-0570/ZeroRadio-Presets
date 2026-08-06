@@ -67,3 +67,4 @@ Don't lose your stations when you get a new phone!
 *   **Station won't play:** Check your internet connection. Some streams may be temporarily offline or restricted to certain regions.
 *   **Sonos not found:** Disable "Mobile Data" briefly to ensure your phone is strictly using Wi-Fi, and make sure the speaker is powered on.
 *   **Logo not appearing:** If a logo fails to load, the app automatically generates a colorful icon with the station's initials.
+*   **App is stopped automatically:** Make sure you go the app unlimited battery permissions as otherwise your phone might at some point kill the app when it is ínactive'for long but still consuming battery. Go to your android settings > Apps > Zero Radio > Battery > Set to Unlimited
