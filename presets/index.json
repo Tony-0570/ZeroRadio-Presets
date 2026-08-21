@@ -1,6 +1,7 @@
 [
   { "id": "gln", "name": "! World News", "file": "global-news.json" },
   { "id": "gla", "name": "! World Artists", "file": "global-artists.json" },
+  { "id": "glg", "name": "! World Genres", "file": "global-genres.json" },
   { "id": "ben", "name": "Belgium-FR", "file": "belgium-fr.json" },
   { "id": "bef", "name": "Belgium-NL", "file": "belgium-nl.json" },
   { "id": "cw", "name": "Curaçao", "file": "curacao.json" },
