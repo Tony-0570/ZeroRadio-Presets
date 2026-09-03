@@ -9,8 +9,8 @@
   { "id": "de", "name": "Germany", "file": "germany.json", "preview": "no"  },
   { "id": "nl", "name": "Nederland", "file": "netherlands.json", "preview": "no"  },
   { "id": "es", "name": "Spain", "file": "spain.json", "preview": "no"  },
-  { "id": "it", "name": "Italy - WIP", "file": "italy.json", "preview": "yes" },
-  { "id": "us", "name": "USA - WIP", "file": "usa.json", "preview": "yes"  },
+  { "id": "it", "name": "Italy", "file": "italy.json", "preview": "yes" },
+  { "id": "us", "name": "USA", "file": "usa.json", "preview": "yes"  },
   { "id": "ca", "name": "Canada", "file": "canada.json", "preview": "yes"  }
   
 ]
