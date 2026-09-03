@@ -11,6 +11,6 @@
   { "id": "es", "name": "Spain", "file": "spain.json", "preview": "no"  },
   { "id": "it", "name": "Italy - WIP", "file": "italy.json", "preview": "yes" },
   { "id": "us", "name": "USA - WIP", "file": "usa.json", "preview": "yes"  },
-  { "id": "ca", "name": "Canada - WIP", "file": "canada.json", "preview": "yes"  }
+  { "id": "ca", "name": "Canada", "file": "canada.json", "preview": "yes"  }
   
 ]
