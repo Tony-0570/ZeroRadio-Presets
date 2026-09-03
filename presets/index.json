@@ -1,16 +1,16 @@
 [
-  { "id": "gln", "name": "! World News", "file": "global-news.json" },
-  { "id": "gla", "name": "! World Artists", "file": "global-artists.json" },
-  { "id": "glg", "name": "! World Genres", "file": "global-genres.json" },
-  { "id": "ben", "name": "Belgium-FR", "file": "belgium-fr.json" },
-  { "id": "bef", "name": "Belgium-NL", "file": "belgium-nl.json" },
-  { "id": "cw", "name": "Curaçao", "file": "curacao.json" },
-  { "id": "fr", "name": "France", "file": "france.json" },
-  { "id": "de", "name": "Germany", "file": "germany.json" },
-  { "id": "nl", "name": "Nederland", "file": "netherlands.json" },
-  { "id": "es", "name": "Spain", "file": "spain.json" },
-  { "id": "it", "name": "Italy - WIP", "file": "italy.json" },
-  { "id": "us", "name": "USA - WIP", "file": "usa.json" },
-  { "id": "ca", "name": "Canada - WIP", "file": "canada.json" }
+  { "id": "gln", "name": "! World News", "file": "global-news.json", "preview": "no" },
+  { "id": "gla", "name": "! World Artists", "file": "global-artists.json", "preview": "no" },
+  { "id": "glg", "name": "! World Genres", "file": "global-genres.json", "preview": "no" },
+  { "id": "ben", "name": "Belgium-FR", "file": "belgium-fr.json", "preview": "no" },
+  { "id": "bef", "name": "Belgium-NL", "file": "belgium-nl.json", "preview": "no" },
+  { "id": "cw", "name": "Curaçao", "file": "curacao.json", "preview": "no" },
+  { "id": "fr", "name": "France", "file": "france.json", "preview": "no"  },
+  { "id": "de", "name": "Germany", "file": "germany.json", "preview": "no"  },
+  { "id": "nl", "name": "Nederland", "file": "netherlands.json", "preview": "no"  },
+  { "id": "es", "name": "Spain", "file": "spain.json", "preview": "no"  },
+  { "id": "it", "name": "Italy - WIP", "file": "italy.json", "preview": "yes" },
+  { "id": "us", "name": "USA - WIP", "file": "usa.json", "preview": "yes"  },
+  { "id": "ca", "name": "Canada - WIP", "file": "canada.json", "preview": "yes"  }
   
 ]
